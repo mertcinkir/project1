@@ -1,1 +1,2 @@
-# project1
+# FLOWER CLASSIFICATION USING A SIMPLE NEURAL NETWORK
+This is my Data Structures projext.
